@@ -3,10 +3,10 @@ I'm a Junior Student Developer!
 
 - 👀 I’m interested in Games , movies and music
 - 🌱 I’m currently learning JavaScript
-- 📚 I’m currently coursing computer science
+- 📚 I’m currently coursing Computer Science
 - 👨‍💻 I’m looking gain more experience programming 
-- 🎯 2021Goals: Learn new languages
-- 🎮 Hobbies: I like to play games and to draw
+- 🎯 2021 Goals: Learn new languages
+
 ### Connect with me:
 
 

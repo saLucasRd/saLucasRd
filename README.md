@@ -1,4 +1,5 @@
 ### Hi there, I'm Lucas - aka TeoLeonHeart, FatKiwi
+
 I'm a Junior Student Developer!
 
 - 👀 I’m interested in Games , movies and music
@@ -9,17 +10,30 @@ I'm a Junior Student Developer!
 
 ### Connect with me:
 
+<p align='left'>
+  
+  <a href="https://www.linkedin.com/in/lucas-sá-0aa7a2225/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the_fat.kiwi/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/The_FatKiwi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/sa_lucas_rd/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
-</details>
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saLucasRd&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-[twitter]: https://twitter.com/The_FatKiwi
-[instagram]: https://www.instagram.com/the_fat.kiwi/
-[linkedin]: https://www.linkedin.com/in/lucas-sá-0aa7a2225/
+
+
+
 
 

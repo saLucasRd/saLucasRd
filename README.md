@@ -22,19 +22,33 @@ I'm a Junior Student Developer!
   <a href="https://twitter.com/The_FatKiwi">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
+</p>
+
+### Games and stuff:
+
+<p align='left'>
   <a href="https://steamcommunity.com/id/sa_lucas_rd/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/teoleonheart">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
 </p>
+
 
 ### Languages:
 <p align='left'>
  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
 </p>

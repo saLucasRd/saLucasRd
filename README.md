@@ -3,7 +3,7 @@
 -   🏫 Estou me graduando em Ciência da computação na Universidade de Fortaleza (UNIFOR).
 -   🧠 Tenho experiência em desenvolvimento web.
 -   🌱 Estou sempre em busca de melhorar minhas habilidades e conhecimento.
--   😎 Procuro me tornar um desenvolver Fullstack e Desenvolvedor de jogos.
+-   😎 Procuro trabalhar como desenvolver Fullstack e Desenvolvedor de jogos.
 <br>
 <br>
 <div align="center">

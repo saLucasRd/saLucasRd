@@ -50,9 +50,9 @@
 <br>
 <br>
 
-<!-- Statistics -->
+<!-- Statistics <h2 style="color: #44AEFB">📊 Estatísticas</h2>
+-->
 
-<h2 style="color: #44AEFB">📊 Estatísticas</h2>
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->

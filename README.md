@@ -1,10 +1,5 @@
 ## Redes Sociais
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salucasrd/)
-## Sobre mim
--   🏫 Estou me graduando em Ciência da computação.
--   🕹️ Tenho experiência em desenvolvimento de jogos.
--   🌱 Tenho experiencia em graphic desing.
--   🏢 A procura de estagio na area de desenvolvimento web.
 <div align="center">
 
 

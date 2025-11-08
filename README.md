@@ -10,7 +10,7 @@
      
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,python,php,mysql,godot,bash,linux,vim,git,blender,photoshop,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,php,mysql,godot,linux,vim,git,blender,&perline=7)](https://skillicons.dev)
 <div class="stats" align="center">
 </div>
 

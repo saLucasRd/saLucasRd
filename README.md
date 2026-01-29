@@ -1,16 +1,16 @@
-## Redes Sociais
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salucasrd/)
-<div align="center">
+# Lucas Sá
 
+### Ciência da Computação | Spring Developer
 
-<!-- Languages and Tools -->
+Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR) e atualmente atuo como Estagiário de Desenvolvimento Spring.
 
-<h2 style="color: #44AEFB">⚙️ Linguagens e Ferramentas</h2>
-<div align="center" style="display:block;">
-     
-</div>
+## Formação Acadêmica
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,php,mysql,godot,linux,vim,git,blender,&perline=7)](https://skillicons.dev)
-<div class="stats" align="center">
-</div>
+* **Bacharelado em Ciência da Computação** Universidade de Fortaleza (UNIFOR)
 
+---
+
+## Contato
+
+* **LinkedIn:** [Lucas Sá](www.linkedin.com/in/salucasrd)
+* **E-mail:** [fatkiwii@proton.me](mailto:fatkiwii@proton.me)

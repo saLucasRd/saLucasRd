@@ -12,5 +12,5 @@ Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
 
 ## Contato
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/salucasrd)
+* **LinkedIn:** [salucasrd](https://www.linkedin.com/in/salucasrd)
 * **E-mail:** [fatkiwii@proton.me](mailto:fatkiwii@proton.me)

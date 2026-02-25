@@ -7,6 +7,7 @@ Sou estudante de Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
 ## Formação Acadêmica
 
 * **Bacharelado em Ciência da Computação** Universidade de Fortaleza (UNIFOR)
+  - Cursando — Previsão de Formatura: 2027
 
 ---
 
